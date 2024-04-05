@@ -1,0 +1,10 @@
+C:\Users\jesus\source\repos\Archivo_no_estructurado\Archivo_no_estructurado\obj\Debug\Archivo_no_estructurado.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\Archivo_no_estructurado\Archivo_no_estructurado\obj\Debug\Archivo_no_estructurado.Form1.resources
+C:\Users\jesus\source\repos\Archivo_no_estructurado\Archivo_no_estructurado\obj\Debug\Archivo_no_estructurado.Properties.Resources.resources
+C:\Users\jesus\source\repos\Archivo_no_estructurado\Archivo_no_estructurado\obj\Debug\Archivo_no_estructurado.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\Archivo_no_estructurado\Archivo_no_estructurado\obj\Debug\Archivo_no_estructurado.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Archivo_no_estructurado\Archivo_no_estructurado\bin\Debug\Archivo_no_estructurado.exe.config
+C:\Users\jesus\source\repos\Archivo_no_estructurado\Archivo_no_estructurado\bin\Debug\Archivo_no_estructurado.exe
+C:\Users\jesus\source\repos\Archivo_no_estructurado\Archivo_no_estructurado\bin\Debug\Archivo_no_estructurado.pdb
+C:\Users\jesus\source\repos\Archivo_no_estructurado\Archivo_no_estructurado\obj\Debug\Archivo_no_estructurado.exe
+C:\Users\jesus\source\repos\Archivo_no_estructurado\Archivo_no_estructurado\obj\Debug\Archivo_no_estructurado.pdb
